@@ -1,0 +1,16 @@
+{
+  "name": "react-native-rolling-marquee",
+  "version": "0.1.0",
+  "description": "A React Native rolling marquee writen in pure js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Marquee"
+  ],
+  "author": "uuau99999",
+  "license": "MIT"
+}
